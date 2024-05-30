@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\bin\Debug\net8.0\LoopsPractices.exe
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\bin\Debug\net8.0\LoopsPractices.deps.json
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\bin\Debug\net8.0\LoopsPractices.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\bin\Debug\net8.0\LoopsPractices.dll
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\bin\Debug\net8.0\LoopsPractices.pdb
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.dll
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\refint\LoopsPractices.dll
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.pdb
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\LoopsPractices.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\LoopsPractices\obj\Debug\net8.0\ref\LoopsPractices.dll

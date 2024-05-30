@@ -6,9 +6,10 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            PracticeArrayCustom();
-            PracticeArray();
-            AverageArray();
+            //PracticeArrayCustom();
+            //PracticeArray();
+            //AverageArray();
+            SimpleOrComplex();
         }
 
         public static void PracticeArrayCustom(){
@@ -55,5 +56,77 @@ namespace Arrays
             Console.WriteLine("Arrayin ortalamasi {0} - dir", avg);
         }
 
+        public static bool IsSimple(int number)
+        {
+            for (int i = 2; i <= number / 2; i++)
+            {
+                if ((number % i) == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        public static void ArrayList(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+        }
+        public static void SimpleOrComplex()
+        {
+            Console.Write("Arrayin olcusun daxil edin:");
+            int len = Convert.ToInt32(Console.ReadLine());
+            if (len >= 0) {
+                int[] numbers = new int[len];
+                int[] complex = new int[0];
+                int[] simple = new int[0];
+                int[] notNatural = new int[0];
+                Console.WriteLine("{0} eded Array elementi daxil edin:", len);
+                for (int j = 0; j < numbers.Length; j++)
+                {
+                    numbers[j] = Convert.ToInt32(Console.ReadLine());
+                    if (numbers[j] < 2)
+                    {
+                        Array.Resize(ref notNatural, notNatural.Length + 1);
+                        notNatural[notNatural.Length - 1] = numbers[j];
+                    }
+                    else
+                    {
+                        if (IsSimple(numbers[j]))
+                        {
+                            Array.Resize(ref simple, simple.Length + 1);
+                            simple[simple.Length - 1] = numbers[j];
+                        }
+                        else
+                        {
+                            Array.Resize(ref complex, complex.Length + 1);
+                            complex[complex.Length - 1] = numbers[j];
+                        }
+                    }
+                }
+                if (notNatural.Length > 0)
+                {
+                    Console.Write("Ne sade nede murekkeb olmayan ededler: ");
+                    ArrayList(notNatural);
+                }
+                if (simple.Length > 0)
+                {
+                    Console.Write("Sade ededler: ");
+                    ArrayList(simple);
+                }
+                if (complex.Length > 0)
+                {
+                    Console.Write("Murekkeb ededler: ");
+                    ArrayList(complex);
+                }
+            }
+            else
+            {
+                Console.WriteLine("Uzunluq sıfırdan böyük olmalıdır!!!");
+            }
+            
+        }
     }
 }
