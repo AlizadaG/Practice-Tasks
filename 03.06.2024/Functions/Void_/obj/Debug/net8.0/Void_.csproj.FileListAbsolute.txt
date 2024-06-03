@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\bin\Debug\net8.0\Void_.exe
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\bin\Debug\net8.0\Void_.deps.json
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\bin\Debug\net8.0\Void_.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\bin\Debug\net8.0\Void_.dll
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\bin\Debug\net8.0\Void_.pdb
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.dll
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\refint\Void_.dll
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.pdb
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\Void_.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\03.06.2024\Functions\Void_\obj\Debug\net8.0\ref\Void_.dll
