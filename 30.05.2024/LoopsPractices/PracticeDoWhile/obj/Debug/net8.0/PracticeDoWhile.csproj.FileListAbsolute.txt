@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\bin\Debug\net8.0\PracticeDoWhile.exe
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\bin\Debug\net8.0\PracticeDoWhile.deps.json
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\bin\Debug\net8.0\PracticeDoWhile.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\bin\Debug\net8.0\PracticeDoWhile.dll
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\bin\Debug\net8.0\PracticeDoWhile.pdb
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.dll
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\refint\PracticeDoWhile.dll
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.pdb
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\PracticeDoWhile.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\30.05.2024\LoopsPractices\PracticeDoWhile\obj\Debug\net8.0\ref\PracticeDoWhile.dll

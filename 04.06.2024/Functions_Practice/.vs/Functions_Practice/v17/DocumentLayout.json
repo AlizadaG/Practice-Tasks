@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Practice-Tasks\\04.06.2024\\Functions_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC17B62-3F38-4559-B024-76A2DF392459}|OutFunctions\\OutFunctions.csproj|c:\\users\\user\\desktop\\practice-tasks\\04.06.2024\\functions_practice\\outfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC17B62-3F38-4559-B024-76A2DF392459}|OutFunctions\\OutFunctions.csproj|solutionrelative:outfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice-Tasks\\04.06.2024\\Functions_Practice\\OutFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "OutFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practice-Tasks\\04.06.2024\\Functions_Practice\\OutFunctions\\Program.cs",
+              "RelativeToolTip": "OutFunctions\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:18:00.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

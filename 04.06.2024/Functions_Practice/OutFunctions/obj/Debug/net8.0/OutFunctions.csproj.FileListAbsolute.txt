@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\bin\Debug\net8.0\OutFunctions.exe
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\bin\Debug\net8.0\OutFunctions.deps.json
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\bin\Debug\net8.0\OutFunctions.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\bin\Debug\net8.0\OutFunctions.dll
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\bin\Debug\net8.0\OutFunctions.pdb
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.dll
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\refint\OutFunctions.dll
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.pdb
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\OutFunctions.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\04.06.2024\Functions_Practice\OutFunctions\obj\Debug\net8.0\ref\OutFunctions.dll
