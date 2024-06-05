@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\bin\Debug\net8.0\CollectionsPractice.exe
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\bin\Debug\net8.0\CollectionsPractice.deps.json
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\bin\Debug\net8.0\CollectionsPractice.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\bin\Debug\net8.0\CollectionsPractice.dll
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\bin\Debug\net8.0\CollectionsPractice.pdb
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.dll
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\refint\CollectionsPractice.dll
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.pdb
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\CollectionsPractice.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\05.06.2024\CollectionsPractice\CollectionsPractice\obj\Debug\net8.0\ref\CollectionsPractice.dll
