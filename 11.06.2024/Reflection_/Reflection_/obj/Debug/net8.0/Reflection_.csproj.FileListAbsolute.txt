@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\bin\Debug\net8.0\Reflection_.exe
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\bin\Debug\net8.0\Reflection_.deps.json
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\bin\Debug\net8.0\Reflection_.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\bin\Debug\net8.0\Reflection_.dll
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\bin\Debug\net8.0\Reflection_.pdb
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.dll
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\refint\Reflection_.dll
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.pdb
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\Reflection_.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\11.06.2024\Reflection_\Reflection_\obj\Debug\net8.0\ref\Reflection_.dll
