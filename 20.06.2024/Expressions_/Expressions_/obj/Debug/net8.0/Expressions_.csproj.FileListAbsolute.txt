@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\bin\Debug\net8.0\Expressions_.exe
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\bin\Debug\net8.0\Expressions_.deps.json
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\bin\Debug\net8.0\Expressions_.runtimeconfig.json
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\bin\Debug\net8.0\Expressions_.dll
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\bin\Debug\net8.0\Expressions_.pdb
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.sourcelink.json
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.dll
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\refint\Expressions_.dll
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.pdb
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\Expressions_.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice-Tasks\20.06.2024\Expressions_\Expressions_\obj\Debug\net8.0\ref\Expressions_.dll

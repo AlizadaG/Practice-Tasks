@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Practice-Tasks\\30.05.2024\\LoopsPractices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6353469-8CD7-49D9-825E-E9C5454E45C7}|PracticeWhile\\PracticeWhile.csproj|c:\\users\\user\\desktop\\practice-tasks\\30.05.2024\\loopspractices\\practicewhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6353469-8CD7-49D9-825E-E9C5454E45C7}|PracticeWhile\\PracticeWhile.csproj|solutionrelative:practicewhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA389D6A-92B1-4794-80EF-E59F3B08486E}|PracticeFor\\PracticeFor.csproj|c:\\users\\user\\desktop\\practice-tasks\\30.05.2024\\loopspractices\\practicefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA389D6A-92B1-4794-80EF-E59F3B08486E}|PracticeFor\\PracticeFor.csproj|solutionrelative:practicefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA7A1B1-05CF-445A-9FB1-EC94E8AB47EA}|PracticeDoWhile\\PracticeDoWhile.csproj|c:\\users\\user\\desktop\\practice-tasks\\30.05.2024\\loopspractices\\practicedowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{B31034DE-64EC-4D7F-9B43-EFA0F2B7245C}|PracticeForEach\\PracticeForEach.csproj|solutionrelative:practiceforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA389D6A-92B1-4794-80EF-E59F3B08486E}|PracticeFor\\PracticeFor.csproj|c:\\users\\user\\desktop\\practice-tasks\\30.05.2024\\loopspractices\\practicefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA389D6A-92B1-4794-80EF-E59F3B08486E}|PracticeFor\\PracticeFor.csproj|solutionrelative:practicefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6353469-8CD7-49D9-825E-E9C5454E45C7}|PracticeWhile\\PracticeWhile.csproj|c:\\users\\user\\desktop\\practice-tasks\\30.05.2024\\loopspractices\\practicewhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6353469-8CD7-49D9-825E-E9C5454E45C7}|PracticeWhile\\PracticeWhile.csproj|solutionrelative:practicewhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,11 +45,12 @@
               "ToolTip": "C:\\Users\\User\\Desktop\\Practice-Tasks\\30.05.2024\\LoopsPractices\\PracticeDoWhile\\Program.cs",
               "RelativeToolTip": "PracticeDoWhile\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T12:42:08.967Z"
+              "WhenOpened": "2024-06-04T12:42:08.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice-Tasks\\30.05.2024\\LoopsPractices\\PracticeWhile\\Program.cs",
               "RelativeDocumentMoniker": "PracticeWhile\\Program.cs",
@@ -68,18 +69,20 @@
               "ToolTip": "C:\\Users\\User\\Desktop\\Practice-Tasks\\30.05.2024\\LoopsPractices\\PracticeForEach\\Program.cs",
               "RelativeToolTip": "PracticeForEach\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T12:40:39.649Z"
+              "WhenOpened": "2024-06-04T12:40:39.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice-Tasks\\30.05.2024\\LoopsPractices\\PracticeFor\\Program.cs",
               "RelativeDocumentMoniker": "PracticeFor\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Practice-Tasks\\30.05.2024\\LoopsPractices\\PracticeFor\\Program.cs",
               "RelativeToolTip": "PracticeFor\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T12:39:59.999Z"
+              "WhenOpened": "2024-06-04T12:39:59.999Z",
+              "EditorCaption": ""
             }
           ]
         }
